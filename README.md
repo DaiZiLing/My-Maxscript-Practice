@@ -27,7 +27,8 @@
 ## 场景中所有标准材质改为白色.ms
 有时3dsmax默认的standard材质里，它的默认颜色是中度灰。在给材质加贴图后，这个中度灰可能会被继承到unity的_BaseColor里，需要蛋疼地把所有带贴图的材质颜色换成白色。
 这个脚本帮我们把活给干了。
-![image](https://github.com/DaiZiLing/My-Maxscript-Practice/blob/main/Image/0418_1.gif)
+
+![image](https://github.com/DaiZiLing/My-Maxscript-Practice/blob/main/Image/0418_1.png)
 
 ## 数字跳动脚本.ms
 之前在项目里做了一个电子表跳动的三维动画，长这样子的 ↓
@@ -36,7 +37,7 @@
 
 这个东西不能K关键帧，只能用脚本实现，然后我就想着把功能整合一下，做个带UI的工具。
 
-![image](https://github.com/DaiZiLing/My-Maxscript-Practice/blob/main/Image/TIM 20220411010851.png)
+![image](https://github.com/DaiZiLing/My-Maxscript-Practice/blob/main/Image/TIM%2020220411010851.png)
 
 最后只做了个框架，功能想往里面加了，摆了属于是
 
